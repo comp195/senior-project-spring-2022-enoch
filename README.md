@@ -101,5 +101,4 @@ Enoch is a system designed to safely and securely move payloads from location to
 WIP
 
 ## Special notes
-I just got the lora raspberry pi hat in the mail on friday the 25th of feburary. I had to leave that same day to visit my grandma for her 87th birthday in Ohio.
-I expect to have the software of the controller integrated with the hardware next week since i just got the lora hat and have to set it up.
+Still attempting to establish connection between network device and raspberry pi
