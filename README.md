@@ -6,7 +6,7 @@ a_vanderpool@u.pacific.edu
 ## Description 
 Enoch is a system designed to safely and securely move payloads from location to another. Enoch is targeted to assist Law Enforcement and/or Medical Personal in their day to day operations in a cost effective manner. Utilizing a system called M.P.S (modular plate system), enoch is designed to use plastic inserts with custom molds meant for holding different specialized objects.
 
-## Bill of Materials (Controller)
+## Bill of Materials
 | Item Number | Part Number | Description | QTY |
 | --- | --- | --- | --- |
 | 1 | Top Panel | | 1 |
@@ -95,10 +95,6 @@ Enoch is a system designed to safely and securely move payloads from location to
 | 11 | Bottom Panel 2 | | 1 |
 | 12 | Bottom Filler Panel | | 1 |
 | 13 | DC_Jack_5-5mm_2- | | 1 |
-
-## Bill of Materials (Droid)
-
-WIP
 
 ## Special notes
 Station Mode is still in Beta Mode
