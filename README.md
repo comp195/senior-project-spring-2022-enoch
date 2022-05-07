@@ -101,4 +101,4 @@ Enoch is a system designed to safely and securely move payloads from location to
 WIP
 
 ## Special notes
-Still attempting to establish connection between network device and raspberry pi
+Station Mode is still in Beta Mode
