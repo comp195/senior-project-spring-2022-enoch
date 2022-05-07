@@ -1,0 +1,1 @@
+my project is a hardware oriented project so professor caniff told me i did not have to submit a pc executable since all of my code will be displayed through my hardware
